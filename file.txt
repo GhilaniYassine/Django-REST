@@ -1,0 +1,15 @@
+Create a new branch based on branch1:
+bash
+Copy
+Edit
+git checkout -b branch2 branch1
+
+
+Work on your updates for the day and save changes.
+Stage, commit, and push the changes to GitHub:
+bash
+Copy
+Edit
+git add .
+git commit -m "Work completed for branch2"
+git push origin branch2
