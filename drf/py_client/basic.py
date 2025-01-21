@@ -12,3 +12,5 @@ print(get_response.json() ) # to get only the message as json similar to the pyt
 
 
  ## echo things form a given  somthing 
+#print(get_response.headers)
+#print(get_response.text)
